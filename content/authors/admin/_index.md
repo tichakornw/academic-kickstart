@@ -14,16 +14,18 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Iowa State University
+- name: Department of Computer Science
   url: "https://www.cs.iastate.edu/"
+- name: Iowa State University
+  url: "https://www.iastate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies in the broad areas of formal methods, control, and optimization, with particular focus on specification, design, optimization, and analysis of cyber-physical systems.
+bio: My research focuses on formal methods, motion planning, situational reasoning, hybrid systems, and distributed control systems.
 
 interests:
-- Specification, design and analysis of autonomous systems
+- Specification, design, and analysis of cyber-physical systems
 - Situational reasoning and decision making in complex, dynamic and uncertain environments
-- Transportation networks
+- Modeling, analysis, and optimization of large-scale multi-agent systems
 
 
 education:
@@ -49,12 +51,21 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tichakorn-wongpiromsarn-3a9b2782/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=oclUWQEAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/tichakorn832
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/0000-0002-3977-122X.html
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-3977-122X
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/tichakorn832
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -71,6 +82,8 @@ email: ""
 #- Visitors
 ---
 
-I am an assistant professor in the <a href='https://www.cs.iastate.edu'>Department of Computer Science</a> at <a href='https://www.iastate.edu/'>Iowa State University</a>. I received a Ph.D. in mechanical engineering from the California Institute of Technology in 2010, where my advisor was <a href='http://www.cds.caltech.edu/~murray/wiki/Main_Page'>Prof. Richard Murray</a>. My research interest lies in the broad area of formal methods, motion planning, control, and optimization, with particular focus on specification, design, and analysis of cyber-physical systems and situational reasoning and decision making in complex, dynamic, and uncertain environments. Most of my work draws inspiration from practical applications, especially in autonomous systems, robotics, and transportation.
+I am an Assistant Professor in the <a href='https://www.cs.iastate.edu'>Department of Computer Science</a> at <a href='https://www.iastate.edu/'>Iowa State University</a>. I received a Ph.D. in Mechanical Engineering from the California Institute of Technology in 2010 under the supervision of <a href='http://www.cds.caltech.edu/~murray/wiki/Main_Page'>Prof. Richard Murray</a>.
 
-Prior to joining ISU, I was a principal research scientist at <a href='https://www.aptiv.com/solutions/autonomous-mobility'>nuTonomy</a> (now <a href='https://hyundai-aptivad.com/'>Hyundai-Aptiv Autonomous Driving Joint Venture</a>), where I led the planning team. As one of the earliest employees, I was heavily involved in the whole software development and release process, from design (interfaces and modules) to implementation (C++ and python), testing, evaluation, and deployment. My work focused on planning, decision making, control, behavior specification, and validation of autonomous vehicles. I was also involved in the <a href='https://www.darpa.mil/about-us/timeline/darpa-urban-challenge'>DARPA Urban Challenge</a>, where I led the Systems team for Team Caltech during my Ph.D.
+My research interests lie in the broad area of computer science, control, and optimization, with a particular focus on formal methods, motion planning, situational reasoning, hybrid systems, and distributed control systems. Most of my work involves applying mathematical and computational rigor to solve concrete, real-world problems, especially in autonomy, robotics, and transportation.
+
+A significant portion of my career has been devoted to the development of autonomous vehicles, both in academia and industry settings. In particular, I was a principal research scientist and led the planning team at <a href='https://www.aptiv.com/solutions/autonomous-mobility'>nuTonomy</a> (now <a href='https://hyundai-aptivad.com/'>Hyundai-Aptiv Autonomous Driving Joint Venture</a>). As one of the earliest employees, I was heavily involved in the whole software development and release process, from design (interfaces and modules) to implementation (C++ and python), testing, evaluation, and deployment. My work focused on planning, decision making, control, behavior specification, and validation of autonomous vehicles. I also led the Systems Team for Team Caltech in the <a href='https://www.darpa.mil/about-us/timeline/darpa-urban-challenge'>2007 DARPA Urban Challenge</a> during my Ph.D.
