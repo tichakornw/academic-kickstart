@@ -1,0 +1,23 @@
+# Theme metadata
+name = "Nok Theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "rgb(0, 136, 204)"
+
+# Links
+link = "#3273dc"
+link_hover = "rgb(54, 54, 54)"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#3273dc"
+menu_title = "#2b2b2b"
+
+# Home sections
+#background = "hsla(16, 24%, 85%, 1)"
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
