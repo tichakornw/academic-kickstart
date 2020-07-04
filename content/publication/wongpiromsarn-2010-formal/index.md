@@ -11,4 +11,22 @@ Our approach incorporates methodology from computer science and control, includi
 Although the aforementioned technique simplifies an invariant verification of PCHAs, finding a proper invariant remains a challenging problem. To complement the verification efforts, in the second part of the thesis, we present a methodology for automatic synthesis of embedded control software that provides a formal guarantee of system correctness, with respect to its desired properties expressed in linear temporal logic. The correctness of the system is guaranteed even in the presence of an adversary (typically arising from changes in the environments), disturbances and modeling errors. A receding horizon framework is proposed to alleviate the associated computational complexity of LTL synthesis. The effectiveness of this framework is demonstrated through the autonomous urban driving problems."
 featured: false
 publication: ""
+
+# Summary. An optional shortened abstract.
+summary: ""
+
+# Digital Object Identifier (DOI)
+doi: ""
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags: []
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: ["formal-methods"]
 ---

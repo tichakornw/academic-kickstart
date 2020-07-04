@@ -8,6 +8,24 @@ abstract: "We consider the synthesis of control policies for probabilistic syste
 featured: false
 publication: "*2012 IEEE 51st IEEE Conference on Decision and Control (CDC)*"
 
+# Summary. An optional shortened abstract.
+summary: ""
+
+# Digital Object Identifier (DOI)
+doi: ""
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags: []
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: ["formal-methods"]
+
 links:
 - name: "full version"
   url: wongpiromsarn-2012-control-full.pdf

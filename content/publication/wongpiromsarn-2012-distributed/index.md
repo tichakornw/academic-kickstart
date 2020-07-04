@@ -8,5 +8,23 @@ abstract: "We propose a distributed algorithm for controlling traffic signals. O
 featured: false
 publication: "*2012 15th International IEEE Conference on Intelligent Transportation Systems*"
 
+# Summary. An optional shortened abstract.
+summary: ""
+
+# Digital Object Identifier (DOI)
+doi: ""
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags: []
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: ["sustainable-transportation"]
+
 url_video: https://youtu.be/Sk-d5-cfkDk
 ---

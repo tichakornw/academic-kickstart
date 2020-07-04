@@ -8,5 +8,23 @@ abstract: "We present an autonomous vehicle providing mobility-on-demand service
 featured: false
 publication: "*2012 IEEE/RSJ International Conference on Intelligent Robots and Systems*"
 
+# Summary. An optional shortened abstract.
+summary: ""
+
+# Digital Object Identifier (DOI)
+doi: ""
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags: []
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: ["mobility-on-demand"]
+
 url_video: https://youtu.be/mdsoU4Udi-M
 ---

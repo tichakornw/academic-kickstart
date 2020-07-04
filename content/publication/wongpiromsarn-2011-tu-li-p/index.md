@@ -8,5 +8,23 @@ abstract: "This paper describes TuLiP, a Python-based software toolbox for the s
 featured: false
 publication: "*Proceedings of the 14th International Conference on Hybrid Systems: Computation and Control*"
 
+# Summary. An optional shortened abstract.
+summary: ""
+
+# Digital Object Identifier (DOI)
+doi: ""
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags: []
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: ["tulip"]
+
 url_code: https://github.com/tulip-control/tulip-control
 ---
