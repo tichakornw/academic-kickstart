@@ -50,6 +50,8 @@ subtitle = "" #"[All news>>](/news)"
  css_class = ""
 +++
 
+I'm looking for Ph.D. students with **strong analytical skills** and eager to **initiate and explore new ideas** that will have **real-world impact**. No particular background is required. If you're interested, please send me a **short** email, giving an example of challenges (not necessarily CS/control/robotic related---anything that illustrates your analytical skills works) you have solved or want to solve and how you would approach it.
+
 {{< readfromfile "/content/newslist.dat" 5 >}}<br/>
 
 [SEE ALL NEWS>>](/news)
