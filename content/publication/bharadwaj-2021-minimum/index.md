@@ -33,7 +33,7 @@ image:
 projects: ["planning-conflicting-specifications"]
 publishDate: '2020-09-28T01:36:25.385979Z'
 publication_types:
-- 9
+- 10
 abstract: Urban air mobility (UAM) refers to air transportation services in and over
   an urban area and has the potential to revolutionize mobility solutions. However,
   due to the projected scale of operations, current air traffic management (ATM) techniques
@@ -47,6 +47,5 @@ abstract: Urban air mobility (UAM) refers to air transportation services in and 
   logic constraints. Numerical results show that the runtime for our proposed algorithm
   is suitable for very large problems and is backed by theoretical guarantees of correctness
   with respect to given temporal logic constraints.
-publication: '*The Thirty-Third Annual Conference on Innovative Applications of Artificial
-  Intelligence*'
+publication: '*The 13th NASA Formal Methods Symposium*'
 ---

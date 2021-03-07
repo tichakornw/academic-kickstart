@@ -33,7 +33,7 @@ image:
 projects: ["planning-conflicting-specifications"]
 publishDate: '2020-09-28T01:42:07.986741Z'
 publication_types:
-- 9
+- 10
 abstract: This paper considers the problem of computing an optimal trajectory for
   an autonomous system that is subject to a set of potentially conflicting rules.
   First, we introduce the concept of prioritized safety specifications, where each
