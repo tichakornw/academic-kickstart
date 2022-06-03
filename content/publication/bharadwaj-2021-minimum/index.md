@@ -33,7 +33,7 @@ image:
 projects: ["planning-conflicting-specifications"]
 publishDate: '2020-09-28T01:36:25.385979Z'
 publication_types:
-- 10
+- 1
 abstract: Urban air mobility (UAM) refers to air transportation services in and over
   an urban area and has the potential to revolutionize mobility solutions. However,
   due to the projected scale of operations, current air traffic management (ATM) techniques

@@ -32,7 +32,7 @@ image:
 projects: []
 publishDate: '2021-03-26T19:46:29.970236Z'
 publication_types:
-- 9
+- 1
 abstract: In many autonomy applications, performance of perception algorithms is important
   for effective planning and control. In this paper, we introduce a framework for
   computing the probability of satisfaction of formal system specifications given
@@ -50,4 +50,6 @@ abstract: In many autonomy applications, performance of perception algorithms is
   identify several opportunities for future work in developing quantitative system-level
   analysis that incorporates perception models.
 publication: '*Proceedings of the 60th IEEE Conference on Decision and Control (CDC)*'
+
+url_pdf: https://arxiv.org/abs/2105.07343
 ---

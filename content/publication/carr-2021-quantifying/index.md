@@ -46,4 +46,6 @@ abstract: We study the problem of analyzing the effects of inconsistencies in pe
   case-studies and implement it in an autonomous vehicle simulator.
 publication: '*2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
+
+url_video: https://youtu.be/yrHslmGohek
 ---

@@ -36,10 +36,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [formal-specifications]
 publishDate: '2021-03-07T03:29:33.236138Z'
 publication_types:
-- 9
+- 1
 abstract: Autonomous vehicles must balance a complex set of objectives. There is no
   consensus on how they should do so, nor on a model for specifying a desired driving
   behavior. We created a dataset to help address some of these questions in a limited
@@ -61,4 +61,6 @@ abstract: Autonomous vehicles must balance a complex set of objectives. There is
   AVs.
 publication: '*2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
   (IROS)*'
+
+url_pdf: https://arxiv.org/abs/2107.13507
 ---
