@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'The Reasonable Crowd: Towards evidence-based and interpretable models of driving
+title: 'The Reasonable Crowd: Towards Evidence-Based and Interpretable Models of Driving
   behavior'
 subtitle: ''
 summary: ''
