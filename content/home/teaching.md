@@ -52,7 +52,7 @@ subtitle = ""
 
 **Courses**
 - Com S 476/576: Motion Strategy Algorithms and Applications, [Spring 2021](https://canvas.iastate.edu/courses/78617), [Spring 2022](https://canvas.iastate.edu/courses/88367), Iowa State University
-- DS 301: Applied Data Modeling and Predictive Analysis, [Fall 2020](https://canvas.iastate.edu/courses/74583), Iowa State University
+- DS 301: Applied Data Modeling and Predictive Analysis, [Fall 2020](https://canvas.iastate.edu/courses/74583), [Fall 2022](https://canvas.iastate.edu/courses/93533), Iowa State University
 - [EECI 2020](https://www.cds.caltech.edu/~murray/wiki/index.php?title=EECI-IGSC_2020): Specification, Design, and Verification for Self-Driving Cars, 9--13 March 2020, Istanbul, Turkey
 - [EECI 2012](http://www.cds.caltech.edu/~murray/wiki/index.php?title=HYCON-EECI,_Spring_2012): Specification, Design, and Verification of Networked Control Systems, 14--18 May 2012, L'Aquila, Italy
 - [EECI 2011](http://www.cds.caltech.edu/~murray/wiki/index.php?title=HYCON-EECI,_Spring_2011): Specification, Design, and Verification of Distributed Embedded Systems, 21--25 March 2011, Supelec, France
