@@ -10,8 +10,8 @@ authors:
 - Ufuk Topcu
 tags: []
 categories: []
-date: '2021-03-05'
-lastmod: 2021-03-06T21:29:33-06:00
+date: '2023-01-01'
+lastmod: 2023-06-21T21:30:08-05:00
 featured: false
 draft: false
 
@@ -28,10 +28,10 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [inconsistencies]
-publishDate: '2021-03-07T03:29:33.311532Z'
+projects: ["inconsistencies"]
+publishDate: '2023-06-22T02:30:08.809676Z'
 publication_types:
-- 9
+- 10
 abstract: We study the problem of analyzing the effects of inconsistencies in perception,
   intent prediction, and decision making among interacting agents. When accounting
   for these effects, planning is akin to synthesizing policies in uncertain and potentially
@@ -44,8 +44,7 @@ abstract: We study the problem of analyzing the effects of inconsistencies in pe
   efficiently provide quantifiable performance metrics for them using probabilistic
   model checking. We showcase our approach using two realistic autonomous vehicle
   case-studies and implement it in an autonomous vehicle simulator.
-publication: '*2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
-  (IROS)*'
+publication: '*2023 7th IEEE Conference on Control Technology and Applications*'
 
 url_video: https://youtu.be/yrHslmGohek
 ---
