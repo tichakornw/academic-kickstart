@@ -82,7 +82,7 @@ email: ""
 #- Visitors
 ---
 
-I am an Assistant Professor in the <a href='https://www.cs.iastate.edu'>Department of Computer Science</a> at <a href='https://www.iastate.edu/'>Iowa State University</a>. I received a Ph.D. in Mechanical Engineering from the California Institute of Technology in 2010 under the supervision of <a href='http://www.cds.caltech.edu/~murray/wiki/Main_Page'>Prof. Richard Murray</a>.
+I am an Assistant Professor in the <a href='https://www.cs.iastate.edu'>Department of Computer Science</a> at <a href='https://www.iastate.edu/'>Iowa State University</a>, where I also serve as the director of the Autonomous Systems Laboratory. In addition to my academic role, I hold a Visiting Academic position with Amazon Robotics. I received a Ph.D. in Mechanical Engineering from the California Institute of Technology in 2010 under the supervision of <a href='http://www.cds.caltech.edu/~murray/wiki/Main_Page'>Prof. Richard Murray</a>.
 
 My research interests lie in the broad area of computer science, control, and optimization, with a particular focus on formal methods, motion planning, situational reasoning, hybrid systems, and distributed control systems. Most of my work involves applying mathematical and computational rigor to solve concrete, real-world problems, especially in autonomy, robotics, and transportation.
 

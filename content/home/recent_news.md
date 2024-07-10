@@ -50,7 +50,7 @@ subtitle = "" #"[All news>>](/news)"
  css_class = ""
 +++
 
-I'm looking for Ph.D. students with **strong analytical skills** and eager to **initiate and explore new ideas** that will have **real-world impact**. Please check the current projects below. If you're interested, the first step is to apply to the Department of Computer Science. For ISU students, please send me a **short** email and include the project(s) you are interested in.
+I'm seeking Ph.D. students with **strong analytical skills** and a passion for **initiating and exploring new ideas** that have a **real-world impact**. Please check the current projects listed below. If interested, the first step is to apply to the Department of Computer Science. For ISU students, please send me a **brief** email, including your transcript and the project(s) of interest.
 
 {{< readfromfile "/content/newslist.dat" 5 >}}<br/>
 

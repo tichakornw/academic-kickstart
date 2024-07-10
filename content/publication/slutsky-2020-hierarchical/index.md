@@ -1,6 +1,6 @@
 ---
 title: "Hierarchical Multiobjective Shortest Path Problems"
-date: 2020-01-01
+date: 2020-06-29
 publishDate: 2020-06-29T03:28:52.980701Z
 authors: ["Konstantin Slutsky", "Dmitry Yershov", "Tichakorn Wongpiromsarn", "Emilio Frazzoli"]
 publication_types: ["1"]

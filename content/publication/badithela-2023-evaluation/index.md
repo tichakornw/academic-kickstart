@@ -31,7 +31,7 @@ image:
 projects: [correctness-autonomy]
 publishDate: '2022-10-17T21:32:14.900008Z'
 publication_types:
-- 10
+- 1
 abstract: This paper studies the evaluation of learning-based object detection models
   in conjunction with model-checking of formal specifications defined on an abstract
   model of an autonomous system and its environment. In particular, we define two

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Impossible Made Possible: Encoding Intractable Specifications via Implied
+title: 'Encoding Intractable Specifications via Implied
   Domain Constraints'
 subtitle: ''
 summary: ''
@@ -13,7 +13,7 @@ authors:
 - Tichakorn Wongpiromsarn
 tags: []
 categories: []
-date: '2023-01-01'
+date: '2023-05-05'
 lastmod: 2024-05-05T15:47:16-05:00
 featured: false
 draft: false

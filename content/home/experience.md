@@ -27,6 +27,14 @@ date_format = "Jan 2006"
 #  description = """"""
 
 [[experience]]
+  title = "Visiting Academic"
+  company = "Amazon Robotics"
+  location = "Remote"
+  date_start = "2022-09-12"
+  date_end = ""
+#  description = """"""
+
+[[experience]]
   title = "Affiliate Assistant Professor"
   company = "Department of Computer Science, Iowa State University"
   company_url = "https://www.cs.iastate.edu/"

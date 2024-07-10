@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'GENESIS-RL: GEnerating Natural Edge-cases with Systematic Integration of Safety
-  considerations and Reinforcement Learning'
+title: 'GENESIS-RL: GEnerating Natural Edge-cases with Systematic Integration of Safety Considerations and Reinforcement Learning'
 subtitle: ''
 summary: ''
 authors:
@@ -38,7 +37,7 @@ publishDate: '2024-03-31T20:47:15.825801Z'
 publication_types:
 - 9
 abstract:      In the rapidly evolving field of autonomous systems, the safety and reliability of the system components are fundamental requirements. These components are often vulnerable to complex and unforeseen environments, making natural edge-case generation essential for enhancing system resilience. This paper presents GENESIS-RL, a novel framework that leverages system-level safety considerations and reinforcement learning techniques to systematically generate naturalistic edge cases. By simulating challenging conditions that mimic the real-world situations, our framework aims to rigorously test entire system's safety and reliability. Although demonstrated within the autonomous driving application, our methodology is adaptable across diverse autonomous systems. Our experimental validation, conducted on high-fidelity simulator underscores the overall effectiveness of this framework.
-publication: '*2024 IEEE/RSJ International Conference on Intelligent Robots and Systems  (IROS)*'
+publication: '*2024 IEEE International Automated Vehicle Validation Conference (IAVVC)*'
 
 url_pdf: https://arxiv.org/abs/2403.19062
 ---

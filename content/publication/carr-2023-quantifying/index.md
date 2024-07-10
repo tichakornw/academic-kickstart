@@ -31,7 +31,7 @@ image:
 projects: ["inconsistencies"]
 publishDate: '2023-06-22T02:30:08.809676Z'
 publication_types:
-- 10
+- 1
 abstract: We study the problem of analyzing the effects of inconsistencies in perception,
   intent prediction, and decision making among interacting agents. When accounting
   for these effects, planning is akin to synthesizing policies in uncertain and potentially
@@ -44,7 +44,7 @@ abstract: We study the problem of analyzing the effects of inconsistencies in pe
   efficiently provide quantifiable performance metrics for them using probabilistic
   model checking. We showcase our approach using two realistic autonomous vehicle
   case-studies and implement it in an autonomous vehicle simulator.
-publication: '*2023 7th IEEE Conference on Control Technology and Applications*'
+publication: '*2023 7th IEEE Conference on Control Technology and Applications (CCTA)*'
 
 url_video: https://youtu.be/yrHslmGohek
 ---

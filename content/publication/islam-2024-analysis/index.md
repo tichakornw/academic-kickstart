@@ -1,18 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Maximum Satisfiability in Mission-time Linear Temporal Logic
+title: Analysis of the Effects of Perception Inconsistency Among Interacting Vehicles
+  in Partially Observable Environments
 subtitle: ''
 summary: ''
 authors:
-- Gokul Hariharan
-- Phillip H. Jones
-- Kristin Y. Rozier
+- Md Rayhanul Islam
 - Tichakorn Wongpiromsarn
+- Samik Basu
 tags: []
 categories: []
-date: '2023-06-21'
-lastmod: 2023-06-21T21:30:08-05:00
+date: '2024-05-31'
+lastmod: 2024-05-31T13:56:40-05:00
 featured: false
 draft: false
 
@@ -29,11 +29,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["runtime-verification"]
-publishDate: '2023-06-22T02:30:08.726039Z'
+projects: []
+publishDate: '2024-07-10T18:56:40.587015Z'
 publication_types:
-- 1
+- 10
 abstract: ''
-publication: '*21st International Conference on Formal Modeling and Analysis of Timed
-  Systems (FORMATS)*'
+publication: '*2024 27th IEEE International Conference on Intelligent Transportation
+  Systems (ITSC)*'
 ---
