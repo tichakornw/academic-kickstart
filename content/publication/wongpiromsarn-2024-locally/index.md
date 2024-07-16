@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2024-02-15T20:47:15.553592Z'
 publication_types:
-- 10
+- 2
 abstract: We consider a local planner that utilizes model predictive control   to locally deviate from a prescribed global path in response to dynamic environments, taking into account the system dynamics. To ensure the consistency between the local and global paths, we introduce the concept of locally homotopic paths for paths with different origins and destinations. We then formulate a hard constraint to ensure that local paths are locally homotopic to a given global path. Additionally, we propose a cost function to penalize any violation of this requirement, rather than completely prohibiting it. Experimental results show that both variants of our approach are more resilient to localization errors, compared to existing methods that represent the homotopy class constraint as an envelope around the global path.
 publication: '*IEEE Robotics and Automation Letters (RAL)*'
 
