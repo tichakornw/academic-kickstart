@@ -4,7 +4,7 @@ summary: Develop and retrofit an existing snowplow with a suite of sensors and m
 
 tags:
 - Autonomy
-- Current projects
+- Past projects
 date: "2021-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

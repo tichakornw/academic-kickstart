@@ -17,12 +17,21 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Assistant Professor"
+  title = "Associate Professor"
   company = "Department of Computer Science, Iowa State University"
   company_url = "https://www.cs.iastate.edu/"
   location = "Ames, IA"
-  date_start = "2020-08-16"
+  date_start = "2025-08-18"
+  date_end = ""
+#  description = """"""
+
+[[experience]]
+  title = "Amazon Scholar"
+  company = "Amazon Robotics"
+  location = "Remote"
+  date_start = "2025-04-01"
   date_end = ""
 #  description = """"""
 
@@ -31,7 +40,16 @@ date_format = "Jan 2006"
   company = "Amazon Robotics"
   location = "Remote"
   date_start = "2022-09-12"
-  date_end = ""
+  date_end = "2025-04-01"
+#  description = """"""
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "Department of Computer Science, Iowa State University"
+  company_url = "https://www.cs.iastate.edu/"
+  location = "Ames, IA"
+  date_start = "2020-08-16"
+  date_end = "2025-08-17"
 #  description = """"""
 
 [[experience]]

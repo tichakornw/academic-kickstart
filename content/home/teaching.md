@@ -51,9 +51,9 @@ subtitle = ""
 +++
 
 **Courses**
-- COM S 676X: Advanced Topics in Autonomous Systems and Robotics [Fall 2023](https://canvas.iastate.edu/courses/100803), Iowa State University
-- COM S 476/576: Motion Strategy Algorithms and Applications, [Spring 2021](https://canvas.iastate.edu/courses/78617), [Spring 2022](https://canvas.iastate.edu/courses/88367), [Spring 2023](https://canvas.iastate.edu/courses/97450), Fall 2024, Iowa State University
-- COM S 311: Introduction to the Design and Analysis of Algorithms, [Spring 2024](https://canvas.iastate.edu/courses/105686), Iowa State University
+- COMS 311: Introduction to the Design and Analysis of Algorithms, [Spring 2024](https://canvas.iastate.edu/courses/105686), [Spring 2025](https://canvas.iastate.edu/courses/116646), [Fall 2025](https://canvas.iastate.edu/courses/122304), Iowa State University
+- COMS 476/576: Motion Strategy Algorithms and Applications, [Spring 2021](https://canvas.iastate.edu/courses/78617), [Spring 2022](https://canvas.iastate.edu/courses/88367), [Spring 2023](https://canvas.iastate.edu/courses/97450), [Fall 2024](https://canvas.iastate.edu/courses/111556), Iowa State University
+- COMS 676X: Advanced Topics in Autonomous Systems and Robotics [Fall 2023](https://canvas.iastate.edu/courses/100803), Iowa State University
 - DS 301: Applied Data Modeling and Predictive Analysis, [Fall 2020](https://canvas.iastate.edu/courses/74583), [Fall 2022](https://canvas.iastate.edu/courses/93533), Iowa State University
 - [EECI 2020](https://www.cds.caltech.edu/~murray/wiki/index.php?title=EECI-IGSC_2020): Specification, Design, and Verification for Self-Driving Cars, 9--13 March 2020, Istanbul, Turkey
 - [EECI 2012](http://www.cds.caltech.edu/~murray/wiki/index.php?title=HYCON-EECI,_Spring_2012): Specification, Design, and Verification of Networked Control Systems, 14--18 May 2012, L'Aquila, Italy

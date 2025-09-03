@@ -5,7 +5,7 @@ summary: Develop runtime verification techniques that incorporate mixed-abstract
 tags:
 - Formal methods
 - Runtime verification
-- Current projects
+- Past projects
 date: "2021-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

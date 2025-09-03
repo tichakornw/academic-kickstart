@@ -48,10 +48,14 @@ subtitle = "" #"[All news>>](/news)"
 
  # CSS class.
  css_class = ""
+
+# Move this to the bottom
+# {{< readfromfile "/content/newslist.dat" 5 >}}<br/>
+#
+# [SEE ALL NEWS>>](/news)
+
 +++
 
-I'm seeking Ph.D. students with **strong analytical skills** and a passion for **initiating and exploring new ideas** that have a **real-world impact**. Please check the current projects listed below. If interested, the first step is to apply to the Department of Computer Science. For ISU students, please send me a **brief** email, including your transcript and the project(s) of interest.
+I'm seeking Ph.D. students with **strong analytical and mathematical skills** and a passion for **rigorous theoretical work** that goes beyond training machine learning models and reporting experimental results. Students are expected to develop novel algorithms or approaches that address concrete challenges in autonomy, robotics, and related fields, with provable guarantees .
 
-{{< readfromfile "/content/newslist.dat" 5 >}}<br/>
-
-[SEE ALL NEWS>>](/news)
+Please check the current projects listed below. Due to the large number of inquiries, I do not typically respond to email questions about graduate positions. If interested, the first step is to apply to the Department of Computer Science. For current ISU students, please send me a **brief** email, including your transcript and the project(s) of interest.
